@@ -1,0 +1,91 @@
+/*Fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+/*Left Col*/
+
+#leftCol {
+  font-family: 'Lato', sans-serif;
+  background-color: #FBFCFF;
+}
+.fa-circle {
+  float: right;
+  margin: 0 5px;
+  font-size: 20px;
+}
+.last {
+  margin-right: 3em;
+}
+.blue {
+  color: #017F9A;
+}
+.fa-github-square {
+  color: #000;
+}
+.fa-twitter-square {
+  color: #1da1f2;
+}
+.fa-linkedin-square {
+  color: #0077b5;
+}
+#leftCol h1 {
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+.presentation h3 {
+  font-size: 15px;
+}
+
+.competences h2, .outils h2, .langues h2, .loisirs h2 {
+  font-size: 18px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.competences h3, .outils h3, .langues h3, .loisirs h3 {
+  font-size: 16px;
+  text-align: left;
+}
+
+
+/*End Left Col*/
+
+
+/*Right Col*/
+
+#rightCol {
+  font-family: 'Lato', sans-serif;
+  background-color: #ECD8CD;
+  padding-bottom: 60px;
+}
+
+#rightCol h1 {
+  font-size: 25px;
+  padding: 10px 5px;
+  background-color: #FBFCFF;
+  color: #000;
+}
+
+#rightCol h2 {
+  font-size: 20px;
+  color: #000;
+}
+
+#rightCol h3 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #0F7C91;
+}
+
+#rightCol p {
+  font-size: 18px;
+  color: #A2968D;
+}
+
+.experiencesPro {
+  margin-top: 40px;
+}
+
+
+/*End Right Col*/
